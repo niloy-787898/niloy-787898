@@ -2,10 +2,6 @@
 
 ---
 
-<p align="center">
-  <img src="[https://ibb.co/4KpnmMR](https://ibb.co/4KpnmMR)" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-
 "I'm a web developer with several years of experience in building web applications and websites. I'm passionate about coding and am always looking for ways to improve my skills and learn new technologies.
 
 My expertise lies in building responsive, user-friendly websites and web applications that meet the needs of clients and end-users. I have experience working with a range of technologies, including HTML, CSS, JavaScript, and several popular web frameworks such as React and Angular.
@@ -17,10 +13,6 @@ I'm excited about the opportunity to work for this company as a web developer be
 Outside of work, I enjoy attending tech conferences and meetups to stay up-to-date with the latest developments in the industry. I also enjoy collaborating with others on open-source projects and contributing to the tech community whenever possible." :wink:
  
  🔭 I’m planning for a Project **Vision: ERP Module**.
- 
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> MERN Stack
- 
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
  👯 I’m looking to collaborate for a Fullstack MERN project **Doc App**.
  
