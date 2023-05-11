@@ -1,8 +1,5 @@
-<div id="header" align="center" >
-  <img src="https://giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%"/>
-  Hey Niloy here 👋
-</div>
----
+###Hey Niloy here 👋
+
 
 "I'm a web developer with several years of experience in building web applications and websites. I'm passionate about coding and am always looking for ways to improve my skills and learn new technologies.
 
