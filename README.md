@@ -52,7 +52,7 @@ Outside of work, I enjoy attending tech conferences and meetups to stay up-to-da
 
 ---
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=niloy-787898&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=niloy-787898&repo=dev.to)](https://github.com/niloy-787898/dev.to)
 
 ---
 
