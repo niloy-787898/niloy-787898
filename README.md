@@ -1,22 +1,33 @@
-###Hey Niloy here 👋
+Hello, World! 👋
 
----
-
-"I'm a web developer with several years of experience in building web applications and websites. I'm passionate about coding and am always looking for ways to improve my skills and learn new technologies.
+I'm Shahinur Islam, a web developer with several years of experience in building web applications and websites. I'm passionate about coding and am always looking for ways to improve my skills and learn new technologies.
 
 My expertise lies in building responsive, user-friendly websites and web applications that meet the needs of clients and end-users. I have experience working with a range of technologies, including HTML, CSS, JavaScript, and several popular web frameworks such as React and Angular.
 
-In my previous roles, I have developed a strong understanding of project management methodologies, including Agile and Waterfall. I'm comfortable working in a team environment and have excellent communication and collaboration skills.
+I am also proficient in using various tools and technologies such as Git, Node.js,Nest js NPM, and MongoDB, and have experience working with databases such as MongoDB and MySQL . My experience in implementing responsive design principles and using front-end frameworks like Bootstrap and Materialize CSS will enable me to deliver high-quality, user-friendly web applications
 
-I'm excited about the opportunity to work for this company as a web developer because of its focus on innovation and its commitment to delivering high-quality solutions to its clients. I believe that my skills and experience make me a strong candidate for the role, and I'm eager to contribute my expertise to the team.
+---
 
-Outside of work, I enjoy attending tech conferences and meetups to stay up-to-date with the latest developments in the industry. I also enjoy collaborating with others on open-source projects and contributing to the tech community whenever possible." :wink:
+🌱 What I'm Learning
+Advanced JavaScript concepts such as closures, async/await, and functional programming.
+React and Redux for building scalable and maintainable web applications.
+DevOps tools and practices for continuous integration and deployment.
+
+---
+
+🔭 What I'm Working On
+Project 1: A web application that allows users to search for local restaurants and book tables online.
+Project 2: An e-commerce website that sells custom-made t-shirts.
+Project 3: A personal portfolio website to showcase my web development skills and projects.
+
+---
+
+
+🔭 I’m planning for a Project **Vision: ERP Module**.
  
- 🔭 I’m planning for a Project **Vision: ERP Module**.
+👯 I’m looking to collaborate for a Fullstack MERN project **Doc App**.
  
- 👯 I’m looking to collaborate for a Fullstack MERN project **Doc App**.
- 
- 💬 Ask me about Full Stack Development and any Tech-related stuff.
+💬 Ask me about Full Stack Development and any Tech-related stuff.
 
 
 ---
@@ -55,10 +66,11 @@ Outside of work, I enjoy attending tech conferences and meetups to stay up-to-da
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-787898)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-Let's connect 👨‍💻 and forge the future together.😁✌
 
-[website]: (https://shahinur-islam-portfolio.vercel.app/)
-[twitter]: https://twitter.com/Shahinurislam30
-[youtube]: https://youtube.com/
-[linkedin]: https://www.linkedin.com/in/shahinur-islam-817955235/
+💬Let's connect and Get In Touch😁✌
+
+LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/shahinur-islam-817955235/)
+Email: niloyweb203@gmail.com
+Portfolio: [https://shahinur-islam-portfolio.vercel.app/](https://shahinur-islam-portfolio.vercel.app/)
+
 
