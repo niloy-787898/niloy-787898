@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
-  ### Hey Niloy here 👋
+  <img src="https://giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+  Hey Niloy here 👋
 </div>
 
 ---
