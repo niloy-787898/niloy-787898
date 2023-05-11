@@ -8,17 +8,17 @@ I am also proficient in using various tools and technologies such as Git, Node.j
 
 ---
 
-🌱 What I'm Learning
+🌱 What I'm Learning<br>
 Advanced JavaScript concepts such as closures, async/await, and functional programming.<br>
-React and Redux for building scalable and maintainable web applications.
-DevOps tools and practices for continuous integration and deployment.
+React and Redux for building scalable and maintainable web applications.<br>
+DevOps tools and practices for continuous integration and deployment.<br>
 
 ---
 
-🔭 What I'm Working On
-Project 1: A web application that allows users to search for local restaurants and book tables online.
-Project 2: An e-commerce website that sells custom-made t-shirts.
-Project 3: A personal portfolio website to showcase my web development skills and projects.
+🔭 What I'm Working On<br>
+Project 1: A web application that allows users to search for local restaurants and book tables online.<br>
+Project 2: An e-commerce website that sells custom-made t-shirts.<br>
+Project 3: A personal portfolio website to showcase my web development skills and projects.<br>
 
 ---
 
@@ -55,6 +55,7 @@ Project 3: A personal portfolio website to showcase my web development skills an
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 ### Other Languages I know
+
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---
@@ -67,10 +68,10 @@ Project 3: A personal portfolio website to showcase my web development skills an
 ---
 
 
-💬Let's connect and Get In Touch😁✌
+💬Let's connect and Get In Touch😁✌<br>
 
-LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/shahinur-islam-817955235/)
-Email: niloyweb203@gmail.com
-Portfolio: [https://shahinur-islam-portfolio.vercel.app/](https://shahinur-islam-portfolio.vercel.app/)
+LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/shahinur-islam-817955235/)<br>
+Email: niloyweb203@gmail.com<br>
+Portfolio: [https://shahinur-islam-portfolio.vercel.app/](https://shahinur-islam-portfolio.vercel.app/)<br>
 
 
