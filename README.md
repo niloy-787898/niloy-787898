@@ -1,5 +1,6 @@
 ###Hey Niloy here 👋
 
+---
 
 "I'm a web developer with several years of experience in building web applications and websites. I'm passionate about coding and am always looking for ways to improve my skills and learn new technologies.
 
@@ -46,7 +47,6 @@ Outside of work, I enjoy attending tech conferences and meetups to stay up-to-da
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/niloy-787898/github-readme-stats)
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
