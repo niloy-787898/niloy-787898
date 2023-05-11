@@ -54,7 +54,7 @@ Outside of work, I enjoy attending tech conferences and meetups to stay up-to-da
 [<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br/> 
 
@@ -66,7 +66,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [niloy-787898](https://github.com/niloy-787898/niloy-787898/)
 
-[website]: [https://souravdey777.github.io/Portfolio/](https://shahinur-islam-portfolio.vercel.app/)
+[website]: (https://shahinur-islam-portfolio.vercel.app/)
 [twitter]: https://twitter.com/Shahinurislam30
 [youtube]: https://youtube.com/
 [linkedin]: https://www.linkedin.com/in/shahinur-islam-817955235/
