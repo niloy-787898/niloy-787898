@@ -3,25 +3,28 @@
 ---
 
 <p align="center">
-  <img src="https://ibb.co/4KpnmMR" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="[https://ibb.co/4KpnmMR](https://ibb.co/4KpnmMR)" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+"I'm a web developer with several years of experience in building web applications and websites. I'm passionate about coding and am always looking for ways to improve my skills and learn new technologies.
+
+My expertise lies in building responsive, user-friendly websites and web applications that meet the needs of clients and end-users. I have experience working with a range of technologies, including HTML, CSS, JavaScript, and several popular web frameworks such as React and Angular.
+
+In my previous roles, I have developed a strong understanding of project management methodologies, including Agile and Waterfall. I'm comfortable working in a team environment and have excellent communication and collaboration skills.
+
+I'm excited about the opportunity to work for this company as a web developer because of its focus on innovation and its commitment to delivering high-quality solutions to its clients. I believe that my skills and experience make me a strong candidate for the role, and I'm eager to contribute my expertise to the team.
+
+Outside of work, I enjoy attending tech conferences and meetups to stay up-to-date with the latest developments in the industry. I also enjoy collaborating with others on open-source projects and contributing to the tech community whenever possible." :wink:
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 🔭 I’m planning for a Project **Vision: ERP Module**.
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
+ 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> MERN Stack
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+ 👯 I’m looking to collaborate for a Fullstack MERN project **Doc App**.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
- 
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
-
-
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+ 💬 Ask me about Full Stack Development and any Tech-related stuff.
 
 
 ---
@@ -53,12 +56,6 @@ I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitatin
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
-
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
-
----
-
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -67,15 +64,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br/>
-
-
----
-### You can checkout my blogs :loudspeaker: 
-
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
-
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
+<br/> 
 
 ---
 
@@ -83,11 +72,10 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/Souravdey777)
+:star: From [niloy-787898](https://github.com/niloy-787898/niloy-787898/)
 
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
+[website]: [https://souravdey777.github.io/Portfolio/](https://shahinur-islam-portfolio.vercel.app/)
+[twitter]: https://twitter.com/Shahinurislam30
 [youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
+[linkedin]: https://www.linkedin.com/in/shahinur-islam-817955235/
+
