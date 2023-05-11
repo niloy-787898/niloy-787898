@@ -1,5 +1,5 @@
-<div id="header" align="center" style="width:100%;height:0;padding-bottom:126%;position:relative;">
-  <img src="https://giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%" height="100%" style="position:absolute"/>
+<div id="header" align="center" >
+  <img src="https://giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%"/>
   Hey Niloy here 👋
 </div>
 
