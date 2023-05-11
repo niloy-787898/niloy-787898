@@ -2,11 +2,6 @@
   <img src="https://giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%"/>
   Hey Niloy here 👋
 </div>
-
-
-
-
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg3YzIzNjk5Y2EyNzM2NmFhYTQ4N2Q3M2JkZjczM2YyNzE4MmFhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif
 ---
 
 "I'm a web developer with several years of experience in building web applications and websites. I'm passionate about coding and am always looking for ways to improve my skills and learn new technologies.
