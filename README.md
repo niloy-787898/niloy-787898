@@ -8,14 +8,14 @@ I am also proficient in using various tools and technologies such as Git, Node.j
 
 ---
 
-🌱 <b>What I'm Learning<b><br><br>
+🌱 What I'm Learning<br><br>
 Advanced JavaScript concepts such as closures, async/await, and functional programming.<br>
 React and Redux for building scalable and maintainable web applications.<br>
 DevOps tools and practices for continuous integration and deployment.<br>
 
 ---
 
-🔭 What I'm Working On<br>
+🔭 What I'm Working On<br><br>
 Project 1: A web application that allows users to search for local restaurants and book tables online.<br>
 Project 2: An e-commerce website that sells custom-made t-shirts.<br>
 Project 3: A personal portfolio website to showcase my web development skills and projects.<br>
