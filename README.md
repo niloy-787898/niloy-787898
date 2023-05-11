@@ -48,6 +48,10 @@ Outside of work, I enjoy attending tech conferences and meetups to stay up-to-da
 
 ---
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=niloy-787898)
+
+---
+
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 [website]: (https://shahinur-islam-portfolio.vercel.app/)
