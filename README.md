@@ -1,5 +1,7 @@
 Hello, World! 👋
 
+---
+
 I'm Shahinur Islam, a web developer with several years of experience in building web applications and websites. I'm passionate about coding and am always looking for ways to improve my skills and learn new technologies.
 
 My expertise lies in building responsive, user-friendly websites and web applications that meet the needs of clients and end-users. I have experience working with a range of technologies, including HTML, CSS, JavaScript, and several popular web frameworks such as React and Angular.
