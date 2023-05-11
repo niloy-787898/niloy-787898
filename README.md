@@ -52,8 +52,7 @@ Outside of work, I enjoy attending tech conferences and meetups to stay up-to-da
 
 ---
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=niloy-787898&repo=dev.to)](https://github.com/niloy-787898/dev.to)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloy-787898)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 Let's connect 👨‍💻 and forge the future together.😁✌
