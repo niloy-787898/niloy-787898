@@ -70,8 +70,8 @@ Project 3: A personal portfolio website to showcase my web development skills an
 
 💬Let's connect and Get In Touch😁✌<br>
 
-LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/shahinur-islam-817955235/)<br>
+LinkedIn: [shahinur-islam-817955235](https://www.linkedin.com/in/shahinur-islam-817955235/)<br>
 Email: niloyweb203@gmail.com<br>
-Portfolio: [https://shahinur-islam-portfolio.vercel.app/](https://shahinur-islam-portfolio.vercel.app/)<br>
+Portfolio: [shahinur-islam-portfolio.com/](https://shahinur-islam-portfolio.vercel.app/)<br>
 
 
