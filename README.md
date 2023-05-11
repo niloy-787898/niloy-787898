@@ -52,6 +52,10 @@ Outside of work, I enjoy attending tech conferences and meetups to stay up-to-da
 
 ---
 
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=niloy-787898&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+
+---
+
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 [website]: (https://shahinur-islam-portfolio.vercel.app/)
