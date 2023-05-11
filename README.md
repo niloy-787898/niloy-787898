@@ -9,7 +9,7 @@ I am also proficient in using various tools and technologies such as Git, Node.j
 ---
 
 🌱 What I'm Learning
-Advanced JavaScript concepts such as closures, async/await, and functional programming./n
+Advanced JavaScript concepts such as closures, async/await, and functional programming.<br>
 React and Redux for building scalable and maintainable web applications.
 DevOps tools and practices for continuous integration and deployment.
 
